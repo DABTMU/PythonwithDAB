@@ -5,7 +5,7 @@
 
 ---
 
-## 📚 Nội Dung Học
+## 📚 Nội dung chia sẻ
 
 ### 🔹 1. Tổng quan về Python cho Phân Tích Dữ Liệu
 - Cài đặt môi trường: **Anaconda, Jupyter Notebook, VS Code**
