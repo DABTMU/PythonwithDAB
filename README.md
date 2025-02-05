@@ -51,7 +51,7 @@
 ---
 
 ## 🚀 Tham Gia Chương Trình
-📌 **Github Repository:** [github.com/PythonwithDAB](https://github.com/PythonwithDAB)  
+📌 **Github Repository:** [github.com/PythonwithDAB](https://github.com/DABTMU/PythonwithDAB)  
 📩 **Liên hệ:** dab.tmu@gmail.com  
 💬 **Cộng đồng:**   *đang xây dựng*...  
 
